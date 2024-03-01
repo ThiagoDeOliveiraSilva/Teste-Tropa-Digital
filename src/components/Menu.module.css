@@ -1,0 +1,13 @@
+.body {
+    padding: 20px;
+    background-color: #FFF;
+    width: 30%;
+    max-width: 200px;
+}
+
+.listaMenu {
+    padding: 30px;
+    list-style: none;
+    color: #FFF;
+    width: 80%;
+}

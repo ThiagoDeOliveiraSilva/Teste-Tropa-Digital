@@ -1,0 +1,39 @@
+.body {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    max-height: 100%;
+    width: 100%;
+    max-width: 100vw;
+    background-color: #F3F3F3;
+}
+
+h1 {
+    padding-top: 20px;
+    padding-left: 30px;
+    font-family: 'Advent Pro';
+    color: #00000070;
+    font-weight: 400;
+}
+
+.vectorContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.vector {
+    height: 2px;
+    width: 94%;
+    background-color: #0000001A;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 15px;
+}
+
+.bold {
+    font-weight: bold;
+}

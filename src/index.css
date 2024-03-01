@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'Advent Pro';
+  src: url('./fonts/AdventPro-VariableFont_wdth\,wght.ttf') format('truetype');
+}
